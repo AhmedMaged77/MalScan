@@ -1,0 +1,2 @@
+# MalScan
+Malware scanning tool
