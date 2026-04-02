@@ -2,7 +2,7 @@
 
 A simple but powerful desktop application for performing static and dynamic malware analysis on files. The tool computes file hashes, queries VirusTotal, extracts strings, analyzes files with Detect It Easy (DiE), and uses AI to provide threat insights. The final report is exported as a styled PDF document.
 
-## 📷 Screenshot
+## 📷 Desktop Application
 > ![لقطة شاشة 2025-05-18 202418](https://github.com/user-attachments/assets/307e4579-d019-4756-9460-73e3bd5a343f)
 
 
